@@ -1,1 +1,9 @@
 # app_flutter
+
+## Ambiente virtual e Git
+1. `git clone <Repositorio_remoto>`
+2. Criação do Ambiente `python -m venv env` e `.\env\Scripts\Activate.ps1`
+3. No bash do Git `echo env >> .gitignore` e segue para git (add ., commit, push)
+
+## Codando o app
+1. 
