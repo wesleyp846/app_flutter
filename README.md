@@ -6,4 +6,10 @@
 3. No bash do Git `echo env >> .gitignore` e segue para git (add ., commit, push)
 
 ## Codando o app
-1. 
+1. `pip install flet` as ft
+   
+   ### Codigo para abrir primeira janela
+`def main(pagina: ft.page):`
+    `pass`
+    
+`ft.app(target=main)`
