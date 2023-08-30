@@ -1,4 +1,4 @@
-# app_flutter
+# app_flutter (Flet)
 
 ## Ambiente virtual e Git
 1. `git clone <Repositorio_remoto>`
@@ -13,3 +13,7 @@
     `pass`
     
 `ft.app(target=main)`
+
+# Documententação do Flet >> https://flet.dev/docs/
+
+## <span style="color: red;">Versão 1.0</span>

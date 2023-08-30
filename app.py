@@ -6,11 +6,14 @@ def main(pagina: ft.page):
     pagina.vertical_alignment = ft.MainAxisAlignment.CENTER
 
     # Funções dos botões
-    def diminuir():
-        pass
+    def diminuir(e):
+        caixa_texto.value = str(int(caixa_texto.value)-1)
+        pagina.update()
 
-    def somar():
-        pass
+
+    def somar(e):
+        caixa_texto.value = str(int(caixa_texto.value)+1)
+        pagina.update()
 
     # CRIAÇÃO DOS ITENS A SEREM EXIBIDOS
     botao_menos = ft.IconButton(ft.icons.REMOVE, on_click=diminuir)
