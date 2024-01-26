@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 # app_flutter (Flet)
 
 ## Ambiente virtual e Git
